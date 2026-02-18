@@ -1,0 +1,25 @@
+{
+  "name": "SPMB System",
+  "short_name": "SPMBSystem",
+  "description": "Sistem Penerimaan Murid Baru",
+  "start_url": "https://minskw.github.io/ppdb/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#E93F02",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/yZ6Ttzz.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.imgur.com/yZ6Ttzz.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"]
+}
